@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **a specialization in Data Analytics.**
 
-- 👯 I’m looking to collaborate on **on projects where I can apply my skills in data analytics to transform complex information into valuable insights and strategic solutions. With a background in Civil Engineering and a specialization in Data Analytics, I excel in data processing, statistical analysis, and creating data-driven strategies to solve real-world problems.**
+- 👯 I’m looking to collaborate on **projects where I can apply my skills in data analytics to transform complex information into valuable insights and strategic solutions. With a background in Civil Engineering and a specialization in Data Analytics, I excel in data processing, statistical analysis, and creating data-driven strategies to solve real-world problems.**
 
 - 📫 How to reach me **guerrabermudezjuanjose@gmail.com**
 
