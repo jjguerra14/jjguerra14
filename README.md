@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Juan Jose Guerra</h1>
+<h1 align="center">Welcome to Juan Jose Guerra's GitHub!</h1>
 <h3 align="center">Focused on transforming complex data into strategic solutions.</h3>
 
-- 🔭 I’m currently working on **a personal project, "Uber Data Analytics," which involves analyzing ride data to optimize routes and improve service efficiency.**
 
 - 🌱 I’m currently learning **a specialization in Data Analytics.**
 
